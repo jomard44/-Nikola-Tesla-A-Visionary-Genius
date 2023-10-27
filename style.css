@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    text-transform: capitalize;
+    border: 5px solid black;
+    background-color: #00ff00;
+    
+}
+
+nav{
+
+    text-align: center;
+   background-color: blue;
+   padding: 20px;
+   
+    
+}
+ul{
+
+   
+   
+}
+li{
+    text-align: center;
+    display:inline;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    background-color: #ff0000;
+} 
+
+
+header {
+    text-align: center;
+    background-color: yellow;
+    color: #000000;
+    padding: 20px;
+    border: 2px solid black;
+    
+}
+blockquote{
+    font-size: large;
+    color: #ff0000;
+}
+img {
+    max-width: 20%;
+    height: auto;
+    border: 5px solid gray;
+    
+    
+}
+.tesla{
+
+    max-width: 22.2%;
+    height: auto;
+    border: 5px solid gray;
+    
+
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #000000;
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    color: #ff0000;
+}
+p{
+    color: #000000;
+}
+.timeline, .inventions, .quotes {
+    text-align: left;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #00ff00;
+    color: white;
+    border: 2px solid #000000;
+    padding: 10px;
+}
